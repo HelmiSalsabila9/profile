@@ -7,10 +7,6 @@ export const links = [
         name: "Beranda",
         path: '/'
     },
-    {
-        name: "Portal",
-        path: '/maintenance'
-    },
     // {
     //     name: "Layanan",
     //     path: '/maintenance'
